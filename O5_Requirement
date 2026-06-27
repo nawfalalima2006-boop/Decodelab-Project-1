@@ -1,0 +1,18 @@
+## 📋 Requirements
+
+### Platform
+- Google Colab or Jupyter Notebook
+
+### Programming Language
+- Python 
+
+### Python Libraries
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- pandera
+
+### Input File
+- Dataset for Data Analytics.csv
