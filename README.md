@@ -23,20 +23,20 @@ This project was completed as part of my DecodeLabs Data Science Internship.The 
   ✓Pandera
 
 ## Project Workflow
-Phase 1: Securing Input Fidelity
+## Phase 1: Securing Input Fidelity
          This phase focuses on understanding and improving the reliability of the raw dataset
 Activities Performed:
        •Loaded and inspected the raw dataset to understand its structure and features.
        •Verified data types and analyzed data quality issues.
        •Performed Exploratory Data Analysis (EDA) to identify patterns and inconsistencies.
        •Handled missing values, duplicate records, and prepared reliable input data for further processing.
-Phase 2: The Vectorized Computation Engine
+## Phase 2: The Vectorized Computation Engine
          This phase focuses on efficient data processing and feature transformation.
 Activities Performed:
        •Applied Pandas and NumPy vectorized operations for efficient data processing and preprocessing.
        •Encoded categorical variables using Label Encoding and One-Hot Encoding, and analyzed feature relationships through correlation analysis.
        •Created new engineered features including RevenuePerItem, OrderYear, and DiscountApplied.
-Phase 3: Structural Contracts and Scaling
+## Phase 3: Structural Contracts and Scaling
          This phase focuses on validating and preparing the dataset for machine learning applications.
 Activities Performed:
        •Validated data structure using Pandera, applied feature scaling, and ensured consistency across features.
@@ -67,7 +67,7 @@ Activities Performed:
    The input dataset is not included in this repository. Please upload it manually before running the notebook
 
 ## Author
-M.Nawfal Alima
+**M.Nawfal Alima**
 
 ---
 
